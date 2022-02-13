@@ -1,3 +1,4 @@
+//Copyright 22222 Янезнаю
 int gcd(int a, int b) {
     while ((a != 0) && (b != 0)) {
         if (a > b) {
