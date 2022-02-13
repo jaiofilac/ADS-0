@@ -1,3 +1,4 @@
+//Copyright 22222 Янезнаю
 #include <iostream>
 #include "alg.h"
 int main()
